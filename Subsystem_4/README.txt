@@ -1,17 +1,14 @@
-This is the README for the Subsystem_4
+This is the README for the Subsystem_4 - Piping
 =======
-
-*Example ... Please chage to suit your own system*
-
 
 Main script
 -------
-The subsystem_4.m MATLAB script should be run
+The piping_optimisation.m MATLAB script should be run. It will generate each of the figures in the report and the results of the optimisation algorithms in the console.
 
 Execution time
 -------
-The execution time is approximately XX seconds
+The execution time is approximately 10.915466 seconds
 
 Dependencies
 -------
-The script requires only MATLAB_R2018A
+The script was written in MATLAB R2019b but should work with other versions
